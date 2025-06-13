@@ -12,3 +12,6 @@ This project was designed to analyze and manage detailed player profiles, empowe
 select First_Name,Surname,DOB,Country,Age,
 Previous_IPLTeam_s,TEAM_2024,reserve_price
 from ipl where country = 'India';
+
+2.Find players with a reserve price above 150 Lakhs
+
